@@ -27,8 +27,9 @@ Com base nas análises realizadas, concluí que as razões de saída relacionada
 Recomendo a implementação de programas de reconhecimento e desenvolvimento de carreira para abordar essas questões.
 
 # Arquivos
-- **[pasta de imagens](https://github.com/Fabiana5308/individual_modulo5/tree/main/pasta%20de%20imagens)
-- **[Análises](https://github.com/Fabiana5308/individual_modulo5/blob/main/Untitled5.ipynb)
+
+-  **[pasta de imagens](https://github.com/Fabiana5308/individual_modulo5/tree/main/pasta%20de%20imagens)** : Aqui estão as imagens que contém no projeto.
+-  **[Análises](https://github.com/Fabiana5308/individual_modulo5/blob/main/Untitled5.ipynb)** : Aqui está o relatório das análises.
 
 ## Tecnologias e Ferramentas Utilizadas
 
